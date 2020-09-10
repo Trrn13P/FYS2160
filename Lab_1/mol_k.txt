@@ -1,0 +1,25 @@
+\begin{table}[h!]
+\caption{tabell}\label{table:mol_k}
+\begin{tabular}{|c|c|c|}
+\hline
+Molecule & Molecular weight [kg/mol] & Degree of freedom \\ 
+Hydrogen & 0.0020 & 3 \\ 
+\hline 
+Helium & 0.0040 & 3 \\ 
+\hline 
+Neon & 0.0201 & 3 \\ 
+\hline 
+Argon & 0.0399 & 3 \\ 
+\hline 
+Nitrogen & 0.0140 & 3 \\ 
+\hline 
+Oxygen & 0.0160 & 3 \\ 
+\hline 
+Air & 0.0290 & 5 \\ 
+\hline 
+CO2 & 0.0440 & 5 \\ 
+\hline 
+Amonia & 0.0170 & 6 \\ 
+\hline 
+\end{tabular}
+\end{table}
