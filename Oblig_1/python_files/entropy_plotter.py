@@ -15,7 +15,6 @@ dSdT = np.zeros(N)
 for i in range(N):
     dSdT[i] = C(T[i])/T[i]
 
-
 S = np.zeros(N)
 sum = 0
 
@@ -23,9 +22,16 @@ dT = (T[-1]-T[0])/N
 for i in range(N):
     S[i] = sum
     sum += C(T[i])/T[i]*dT
-"""
+
 plt.plot(T,S)
-plt.show()
-"""
+plt.xlabel(r"T $[K]$",FontSize=15)
+plt.ylabel(r"S $[J/K]$",FontSize=15)
+plt.savefig("../figures/S_mot_T")
+plt.clf()
+
+
 plt.plot(T,dSdT)
-plt.show()
+plt.xlabel(r"T [$K$]",FontSize=15)
+plt.ylabel(r"dS/dT [$J/K^2$]",FontSize=15)
+plt.savefig("../figures/dSdT_mot_T")
+plt.clf()
