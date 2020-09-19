@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.22)  19 SEP 2020 08:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.22)  19 SEP 2020 08:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1886,41 +1886,45 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 86.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<../figures/termos_bilder.png, id=84, 574.145pt x 430.60875pt>
+<../figures/termos_bilder.png, id=85, 574.145pt x 430.60875pt>
 File: ../figures/termos_bilder.png Graphic file (type png)
 <use ../figures/termos_bilder.png>
 Package pdftex.def Info: ../figures/termos_bilder.png  used on input line 159.
 (pdftex.def)             Requested size: 227.62204pt x 170.71606pt.
- [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../f
-igures/termos_bilder.png>]
-<../figures/mugs.png, id=116, 462.528pt x 346.896pt>
+<../figures/mugs.png, id=90, 462.528pt x 346.896pt>
 File: ../figures/mugs.png Graphic file (type png)
 <use ../figures/mugs.png>
 Package pdftex.def Info: ../figures/mugs.png  used on input line 172.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
-<../figures/mugs_2.png, id=117, 462.528pt x 346.896pt>
+<../figures/mugs_2.png, id=91, 462.528pt x 346.896pt>
 File: ../figures/mugs_2.png Graphic file (type png)
 <use ../figures/mugs_2.png>
 Package pdftex.def Info: ../figures/mugs_2.png  used on input line 179.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
- [2 <../figures/mugs.png> <../figures/mugs_2.png>]
-<../figures/dSdT_mot_T.png, id=135, 462.528pt x 346.896pt>
+ [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 188.
+
+[2 <../figures/termos_bilder.png> <../figures/mugs.png> <../figures/mugs_2.png>
+]
+<../figures/dSdT_mot_T.png, id=138, 462.528pt x 346.896pt>
 File: ../figures/dSdT_mot_T.png Graphic file (type png)
 <use ../figures/dSdT_mot_T.png>
 Package pdftex.def Info: ../figures/dSdT_mot_T.png  used on input line 254.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
-<../figures/S_mot_T.png, id=136, 462.528pt x 346.896pt>
+<../figures/S_mot_T.png, id=139, 462.528pt x 346.896pt>
 File: ../figures/S_mot_T.png Graphic file (type png)
 <use ../figures/S_mot_T.png>
 Package pdftex.def Info: ../figures/S_mot_T.png  used on input line 261.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
  [3 <../figures/dSdT_mot_T.png> <../figures/S_mot_T.png>]
-<../figures/S_mot_q.png, id=146, 462.528pt x 346.896pt>
+<../figures/S_mot_q.png, id=149, 462.528pt x 346.896pt>
 File: ../figures/S_mot_q.png Graphic file (type png)
 <use ../figures/S_mot_q.png>
 Package pdftex.def Info: ../figures/S_mot_q.png  used on input line 298.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
-<../figures/C_mot_q.png, id=147, 462.528pt x 346.896pt>
+<../figures/C_mot_q.png, id=150, 462.528pt x 346.896pt>
 File: ../figures/C_mot_q.png Graphic file (type png)
 <use ../figures/C_mot_q.png>
 Package pdftex.def Info: ../figures/C_mot_q.png  used on input line 305.
@@ -1936,7 +1940,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 318--320
 
  []
 
-<../figures/omegas.png, id=150, 462.528pt x 346.896pt>
+<../figures/omegas.png, id=153, 462.528pt x 346.896pt>
 File: ../figures/omegas.png Graphic file (type png)
 <use ../figures/omegas.png>
 Package pdftex.def Info: ../figures/omegas.png  used on input line 325.
@@ -1951,7 +1955,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 337--339
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
  on input line 340.
 
-<../figures/C_comparrison.png, id=168, 462.528pt x 346.896pt>
+<../figures/C_comparrison.png, id=171, 462.528pt x 346.896pt>
 File: ../figures/C_comparrison.png Graphic file (type png)
 <use ../figures/C_comparrison.png>
 Package pdftex.def Info: ../figures/C_comparrison.png  used on input line 354.
@@ -2024,11 +2028,11 @@ Package rerunfilecheck Info: File `oblig1.out' has not changed.
 (rerunfilecheck)             Checksum: AF80092B30F7B9BCB8CF26DF7D87E38F;1190.
  ) 
 Here is how much of TeX's memory you used:
- 29210 strings out of 492649
- 535706 string characters out of 6129622
+ 29212 strings out of 492649
+ 535735 string characters out of 6129622
  749191 words of memory out of 5000000
- 32470 multiletter control sequences out of 15000+600000
- 536667 words of font info for 48 fonts, out of 8000000 for 9000
+ 32471 multiletter control sequences out of 15000+600000
+ 536834 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,8n,54p,10444b,1978s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
@@ -2047,11 +2051,12 @@ ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
 8/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2018/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2018/texm
-f-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on oblig1.pdf (7 pages, 923104 bytes).
+f-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2018/texmf-
+dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on oblig1.pdf (7 pages, 934941 bytes).
 PDF statistics:
- 525 PDF objects out of 1000 (max. 8388607)
- 476 compressed objects within 5 object streams
+ 531 PDF objects out of 1000 (max. 8388607)
+ 481 compressed objects within 5 object streams
  269 named destinations out of 1000 (max. 500000)
  210 words of extra memory for PDF output out of 10000 (max. 10000000)
 
