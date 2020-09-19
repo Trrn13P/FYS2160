@@ -1,5 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from scipy.constants import k
+from scipy.constants import R
+
 
 k = 1;
 
@@ -27,5 +30,11 @@ S_numerical = np.asarray(S_numerical)
 T_numerical= np.asarray(T_numerical)
 Cv_over_Nk_numerical= np.asarray(Cv_over_Nk_numerical)
 
-plt.plot(T_numerical,Cv_over_Nk_numerical)
-plt.show()
+plt.yticks()
+for epsilon in range(200,5001,500):
+    plt.plot(T_numerical*epsilon,Cv_over_Nk_numerical*N*k/R,label="epsilon=%g"%(epsilon))
+plt.xlabel("T [K]",FontSize=15)
+plt.ylabel(r"$C_V/R$ [J/K]",FontSize=15)
+plt.legend()
+plt.savefig("../figures/C_comparrison.png")
+plt.clf()

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.22)  18 SEP 2020 14:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.22)  19 SEP 2020 08:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1876,121 +1876,182 @@ LaTeX Info: Redefining \nameref on input line 80.
 Class revtex4-1 Info: Taking \maketitle back from hyperref on input line 80.
 \openout3 = `oblig1Notes.bib'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 122.
+LaTeX Font Info:    Try loading font information for U+msa on input line 86.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 122.
+LaTeX Font Info:    Try loading font information for U+msb on input line 86.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<../figures/mugs.png, id=58, 462.528pt x 346.896pt>
+<../figures/termos_bilder.png, id=84, 574.145pt x 430.60875pt>
+File: ../figures/termos_bilder.png Graphic file (type png)
+<use ../figures/termos_bilder.png>
+Package pdftex.def Info: ../figures/termos_bilder.png  used on input line 159.
+(pdftex.def)             Requested size: 227.62204pt x 170.71606pt.
+ [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../f
+igures/termos_bilder.png>]
+<../figures/mugs.png, id=116, 462.528pt x 346.896pt>
 File: ../figures/mugs.png Graphic file (type png)
 <use ../figures/mugs.png>
-Package pdftex.def Info: ../figures/mugs.png  used on input line 128.
+Package pdftex.def Info: ../figures/mugs.png  used on input line 172.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
-<../figures/mugs_2.png, id=60, 462.528pt x 346.896pt>
+<../figures/mugs_2.png, id=117, 462.528pt x 346.896pt>
 File: ../figures/mugs_2.png Graphic file (type png)
 <use ../figures/mugs_2.png>
-Package pdftex.def Info: ../figures/mugs_2.png  used on input line 135.
+Package pdftex.def Info: ../figures/mugs_2.png  used on input line 179.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
- [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../f
-igures/mugs.png>]
-
-LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 150.
-
-<../figures/dSdT_mot_T.png, id=80, 462.528pt x 346.896pt>
+ [2 <../figures/mugs.png> <../figures/mugs_2.png>]
+<../figures/dSdT_mot_T.png, id=135, 462.528pt x 346.896pt>
 File: ../figures/dSdT_mot_T.png Graphic file (type png)
 <use ../figures/dSdT_mot_T.png>
-Package pdftex.def Info: ../figures/dSdT_mot_T.png  used on input line 176.
+Package pdftex.def Info: ../figures/dSdT_mot_T.png  used on input line 254.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
-<../figures/S_mot_T.png, id=81, 462.528pt x 346.896pt>
+<../figures/S_mot_T.png, id=136, 462.528pt x 346.896pt>
 File: ../figures/S_mot_T.png Graphic file (type png)
 <use ../figures/S_mot_T.png>
-Package pdftex.def Info: ../figures/S_mot_T.png  used on input line 183.
+Package pdftex.def Info: ../figures/S_mot_T.png  used on input line 261.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
-[2 <../figures/mugs_2.png> <../figures/dSdT_mot_T.png> <../figures/S_mot_T.png>
-]
-<../figures/S_mot_q.png, id=94, 462.528pt x 346.896pt>
+ [3 <../figures/dSdT_mot_T.png> <../figures/S_mot_T.png>]
+<../figures/S_mot_q.png, id=146, 462.528pt x 346.896pt>
 File: ../figures/S_mot_q.png Graphic file (type png)
 <use ../figures/S_mot_q.png>
-Package pdftex.def Info: ../figures/S_mot_q.png  used on input line 218.
+Package pdftex.def Info: ../figures/S_mot_q.png  used on input line 298.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
-<../figures/C_mot_q.png, id=95, 462.528pt x 346.896pt>
+<../figures/C_mot_q.png, id=147, 462.528pt x 346.896pt>
 File: ../figures/C_mot_q.png Graphic file (type png)
 <use ../figures/C_mot_q.png>
-Package pdftex.def Info: ../figures/C_mot_q.png  used on input line 225.
+Package pdftex.def Info: ../figures/C_mot_q.png  used on input line 305.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 
-Overfull \hbox (13.82826pt too wide) detected at line 238
+Overfull \hbox (13.82826pt too wide) detected at line 318
 \OT1/cmr/m/n/10 
  = [] \OMS/cmsy/m/n/10 ^^Y [] \OT1/cmr/m/n/10 = ([])[]([])[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--240
+Underfull \hbox (badness 10000) in paragraph at lines 318--320
 
  []
 
-<../figures/omegas.png, id=98, 462.528pt x 346.896pt>
+<../figures/omegas.png, id=150, 462.528pt x 346.896pt>
 File: ../figures/omegas.png Graphic file (type png)
 <use ../figures/omegas.png>
-Package pdftex.def Info: ../figures/omegas.png  used on input line 245.
+Package pdftex.def Info: ../figures/omegas.png  used on input line 325.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
-[3 <../figures/S_mot_q.png> <../figures/C_mot_q.png> <../figures/omegas.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 257--259
 
+Underfull \hbox (badness 10000) in paragraph at lines 337--339
+
+ []
+
+[4 <../figures/S_mot_q.png> <../figures/C_mot_q.png>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 340.
+
+<../figures/C_comparrison.png, id=168, 462.528pt x 346.896pt>
+File: ../figures/C_comparrison.png Graphic file (type png)
+<use ../figures/C_comparrison.png>
+Package pdftex.def Info: ../figures/C_comparrison.png  used on input line 354.
+(pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
+[5 <../figures/omegas.png> <../figures/C_comparrison.png>]
+Overfull \hbox (40.34727pt too wide) in paragraph at lines 472--473
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+
+Overfull \hbox (47.78487pt too wide) in paragraph at lines 503--504
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][] 
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 506.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Omega' on input line 506.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 506.
+
+
+Overfull \hbox (3.15932pt too wide) in paragraph at lines 520--521
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (10.59691pt too wide) in paragraph at lines 521--522
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (25.47209pt too wide) in paragraph at lines 522--523
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[6]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 568.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 568.
+
+
+Overfull \hbox (84.97282pt too wide) in paragraph at lines 605--606
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][] 
  []
 
 No file oblig1.bbl.
-[4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
+[7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 624.
  (./oblig1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 292.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 292.
-
-
-Package rerunfilecheck Warning: File `oblig1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `oblig1.out':
-(rerunfilecheck)             Before: 2C67D73FF032AB9A519F7AD1C02660B4;676
-(rerunfilecheck)             After:  5383F0D5F4D2B52174DE6763D93F799E;613.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 624.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 624.
+Package rerunfilecheck Info: File `oblig1.out' has not changed.
+(rerunfilecheck)             Checksum: AF80092B30F7B9BCB8CF26DF7D87E38F;1190.
  ) 
 Here is how much of TeX's memory you used:
- 28468 strings out of 492649
- 527539 string characters out of 6129622
- 625191 words of memory out of 5000000
- 31976 multiletter control sequences out of 15000+600000
- 536331 words of font info for 46 fonts, out of 8000000 for 9000
+ 29210 strings out of 492649
+ 535706 string characters out of 6129622
+ 749191 words of memory out of 5000000
+ 32470 multiletter control sequences out of 15000+600000
+ 536667 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,54p,10444b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.12} has been referenced but does not exi
-st, replaced by a fixed one
-
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
-/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></u
-sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
-r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
-/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/l
-ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/loc
-al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local
-/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/t
-exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
-live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texliv
-e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2
-018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2018
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/te
-xmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on oblig1.pdf (4 pages, 294528 bytes).
+ 55i,8n,54p,10444b,1978s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
+/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local
+/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
+/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/20
+18/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2018/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2018/texm
+f-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on oblig1.pdf (7 pages, 923104 bytes).
 PDF statistics:
- 176 PDF objects out of 1000 (max. 8388607)
- 139 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
- 144 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 525 PDF objects out of 1000 (max. 8388607)
+ 476 compressed objects within 5 object streams
+ 269 named destinations out of 1000 (max. 500000)
+ 210 words of extra memory for PDF output out of 10000 (max. 10000000)
 
